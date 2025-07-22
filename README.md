@@ -3,7 +3,7 @@
 <p>Bem-vindo ao meu perfil! Aqui você encontrará alguns dos meus projetos e experimentos em programação. 🚀</p>
 
 <h2>💻 Tecnologias que estou aprendendo</h2>
-<ul style="display:flex; ">
+<ul display:flex;>
   <li>HTML & CSS</li>
   <li>JavaScript</li>
   <li>Python</li>
