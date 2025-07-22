@@ -3,12 +3,16 @@
 <p>Bem-vindo ao meu perfil! Aqui você encontrará alguns dos meus projetos e experimentos em programação. 🚀</p>
 
 <h2>💻 Tecnologias que estou aprendendo</h2>
-<ul display:flex;>
-  <li>HTML & CSS</li>
+<ul display = "flex" >
+  <li>HTML</li>
+  <li>CSS</li>
   <li>JavaScript</li>
-  <li>Python</li>
+  <li>TypeScript</li>
   <li>Node.js</li>
   <li>React</li>
+  <li>Tailwind CSS</li>
+
+  
 </ul>
 
 <h2>📫 Contato</h2>
