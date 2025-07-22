@@ -16,14 +16,16 @@
 
 <h2>📫 Contato</h2>
 <p>
-  <a href="mailto:seuemail@example.com">✉️ E-mail</a> |
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">🔗 LinkedIn</a>
+  <a href="mailto:pedrolucatt@outlook.com">✉️ E-mail</a> |
+  <a href="www.linkedin.com/in/pedro-magdalene-lucatti-6bab13359" target="_blank">🔗 LinkedIn</a>
 </p>
 
 <h2>📌 Projetos em destaque</h2>
 <ul>
-  <li><a href="https://github.com/seuusuario/nome-do-projeto">🛠 Projeto 1</a></li>
-  <li><a href="https://github.com/seuusuario/nome-do-projeto2">📊 Projeto 2</a></li>
+  <li><a href="https://olucatti.github.io/B7-Burger/">🍔 B7 Burguer</a></li>
+  <li><a href="https://olucatti.github.io/Awax/">📊 Awax</a></li>
+  <li><a href="https://olucatti.github.io/Starbucks/">☕ Starbucks</a></li>
+  <li><a href="https://olucatti.github.io/Apple-Iphones/">📱 Iphone - Apple</a></li>
 </ul>
 
 <p><em>Obrigado por visitar! ⭐</em></p>
