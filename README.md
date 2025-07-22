@@ -16,8 +16,13 @@
 
 <h2>📫 Contato</h2>
 <p>
-  <a href="mailto:pedrolucatt@outlook.com">✉️ E-mail</a> |
-  <a href="www.linkedin.com/in/pedro-magdalene-lucatti-6bab13359" target="_blank">🔗 LinkedIn</a>
+  <a href="mailto:seuemail@example.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
 </p>
 
 <h2>📌 Projetos em destaque</h2>
