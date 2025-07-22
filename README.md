@@ -1,3 +1,9 @@
+<style>
+  ul {
+    display:flex
+  }
+</style>
+
 <h1>👋 Olá, eu sou o Pedro Lucatti</h1>
 
 <p>Bem-vindo ao meu perfil! Aqui você encontrará alguns dos meus projetos e experimentos em programação. 🚀</p>
