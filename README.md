@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>👋 Olá, eu sou o Pedro Lucatti</h1>
 
-<!--
-**oLucatti/olucatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Bem-vindo ao meu perfil! Aqui você encontrará alguns dos meus projetos e experimentos em programação. 🚀</p>
 
-Here are some ideas to get you started:
+<h2>💻 Tecnologias que estou aprendendo</h2>
+<ul>
+  <li>HTML & CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>Node.js</li>
+  <li>React</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📫 Contato</h2>
+<p>
+  <a href="mailto:seuemail@example.com">✉️ E-mail</a> |
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">🔗 LinkedIn</a>
+</p>
+
+<h2>📌 Projetos em destaque</h2>
+<ul>
+  <li><a href="https://github.com/seuusuario/nome-do-projeto">🛠 Projeto 1</a></li>
+  <li><a href="https://github.com/seuusuario/nome-do-projeto2">📊 Projeto 2</a></li>
+</ul>
+
+<p><em>Obrigado por visitar! ⭐</em></p>
